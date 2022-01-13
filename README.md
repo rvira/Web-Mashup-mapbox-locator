@@ -23,7 +23,7 @@ https://www.programmableweb.com/category/indian/mashup
 
 ## How to execeute
 
-1. Change the source of following snippet
+1. Change the source of following snippet in *layout.html*
   > <script src="C:\Users\Rishabh\Desktop\cordinates.js">
   
 2. Run the layout.html
